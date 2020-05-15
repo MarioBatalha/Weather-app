@@ -1,1 +1,1 @@
-App que disponibiliza informações de qualquer lugar que precisas.
+App que disponibiliza informações climáticas de qualquer lugar que precisas.
